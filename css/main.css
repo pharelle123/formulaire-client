@@ -31,6 +31,10 @@ fieldset{
         ;
     }
 }
+.picture{
+    max-width: 40rem;
+    margin: 2rem auto 0;
+}
 form{
     padding: 2rem;
 
@@ -70,4 +74,7 @@ form{
         
 
     }
+}
+footer{
+    text-align: center;
 }   
