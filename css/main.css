@@ -76,6 +76,9 @@ form{
 
     }
 }
+.msg{
+    padding: 1rem;
+}
 footer{
     text-align: center;
 }   
